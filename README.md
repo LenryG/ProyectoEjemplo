@@ -1,4 +1,7 @@
 # ProyectoEjemplo
 Mi repositorio de Github
 
-Mi linea
+Mis lineas
+
+# Documentacion (Dev 2)
+Documentacion del desarrollador 2
